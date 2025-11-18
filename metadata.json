@@ -1,0 +1,7 @@
+{
+  "name": "Bahgat.ai - AI Solutions Factory",
+  "description": "Personal website of Ahmed Bahgat, an AI-powered super-human and founder of Hall. Features an AI twin chatbot and a marketplace for AI solutions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
